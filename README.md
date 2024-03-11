@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xieike
+- 👀 I’m interested in Python Code
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on many projects
